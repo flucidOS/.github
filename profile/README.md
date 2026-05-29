@@ -6,6 +6,14 @@ It is currently developed and maintained by a single developer, and is now enter
 
 ---
 
+> [!NOTE]
+> This is an important note that readers should see.
+> The bare system of the flucidOS has been developed and documented
+> Readers can see the documentation of boot-flow through the following link
+
+> [Google Drive](https://drive.google.com/drive/folders/17bUqhZVSesYsYbFdrDtIhNpS4lAcz8fv?usp=sharing).
+---
+
 ## Purpose
 
 This organization exists to:

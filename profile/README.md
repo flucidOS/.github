@@ -34,7 +34,7 @@ Here's what's under the hood:
 |---|---|
 | **OSTree** | Atomic system versioning — think Git, but for your entire OS |
 | **Flatpak** | Sandboxed, portable app delivery that never touches the base system |
-| **Podbox** | Containerised developer environments, fully isolated from the OS |
+| **Podbx** | Containerised developer environments, fully isolated from the OS |
 | **Auto-rollback** | Boot failure after an update? FlucidOS rewinds itself automatically |
 
 The system never drifts. You always know exactly what state you're in. Chaos, by design, has nowhere to live.
@@ -87,7 +87,7 @@ We don't have a bar so much as a *style* — thoughtful, deliberate, systems-min
 | Repository | What lives here |
 |---|---|
 | Core OS | Base image, OSTree commit pipeline, boot infrastructure |
-| Podbox | Container configuration and management |
+| Podbx | Container configuration and management |
 | Infrastructure | System config, drivers, CI |
 
 ---

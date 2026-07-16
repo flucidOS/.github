@@ -4,13 +4,17 @@
 
 ### Computing without chaos.
 
-FlucidOS is an immutable, atomic Linux desktop — engineered so that Linux gets out of your way and lets you actually use your computer.
+FlucidOS is an immutable, atomic Linux desktop — engineered so that you can drive your daily work without chaos.
 
 [📂 Documentation](https://drive.google.com/drive/folders/17bUqhZVSesYsYbFdrDtIhNpS4lAcz8fv?usp=sharing) · [Open an Issue](../../issues) · [Meet the Maintainer](https://github.com/siddharthantv)
 
 </div>
 
 ---
+> [!NOTE]
+> Currently we are moving our infrastructure.
+> The previous package management method has been discontinued due to architectural and design decision changes
+> Soon the infrasture will be shared
 
 ## The problem we're solving
 
@@ -125,3 +129,4 @@ FlucidOS is an independent project, not affiliated with any organization, founda
 *Built correctly first. Now, collaboratively. Come build with us.*
 
 </div>
+

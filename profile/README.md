@@ -6,7 +6,7 @@
 
 FlucidOS is an immutable, atomic Linux desktop — engineered so that you can drive your daily work without chaos.
 
-[📂 Documentation](https://drive.google.com/drive/folders/17bUqhZVSesYsYbFdrDtIhNpS4lAcz8fv?usp=sharing) · [Open an Issue](../../issues) · [Meet the Maintainer](https://github.com/siddharthantv)
+[📂 Bare-system](https://drive.google.com/drive/folders/17bUqhZVSesYsYbFdrDtIhNpS4lAcz8fv?usp=sharing) · [Open an Issue](../../issues) · [Meet the Maintainer](https://github.com/siddharthantv)
 
 </div>
 

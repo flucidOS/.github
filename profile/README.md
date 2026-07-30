@@ -1,6 +1,7 @@
 <div align="center">
 
-# FlucidOS
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/flucidOS/.github/main/profile/flucidOS-Logo-Dark.png">
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/flucidOS/.github/main/profile/flucidOS-Logo-Light.png">
 
 ### Computing without chaos.
 

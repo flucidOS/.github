@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./flucidOS-Logo-Light.png">
   <source media="(prefers-color-scheme: light)" srcset="./flucidOS-Logo-Dark.png">
-  <img src="./flucidOS-Logo-Light.png" alt="FlucidOS Logo"">
+  <img src="./flucidOS-Logo-Light.png" alt="FlucidOS Logo" width="500"">
 </picture>
 
 ### Computing without chaos.

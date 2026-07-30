@@ -6,7 +6,6 @@
   <img src="./flucidOS-Logo-Light.png" alt="FlucidOS Logo" width="500"">
 </picture>
 
-### Computing without chaos.
 
 FlucidOS is an immutable, atomic Linux desktop — engineered so that you can drive your daily work without chaos.
 

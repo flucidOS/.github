@@ -1,9 +1,11 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./flucidOS-Logo-Light.png">
-  <source media="(prefers-color-scheme: light)" srcset="./flucidOS-Logo-Dark.png">
-  <img src="./flucidOS-Logo-Light.png" alt="FlucidOS Logo" width="500"">
+      <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/flucidOS/.github/main/profile/flucidOS-Logo-Light.png">
+      <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/flucidOS/.github/main/profile/flucidOS-Logo-Dark.png">
+      <img src="./flucidOS-Logo-Light.png" alt="FlucidOS Logo" width="500"">
 </picture>
 
 
